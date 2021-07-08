@@ -1,0 +1,33 @@
+{
+    "name": "melvinachterhuis/customer-overview-shopware6-plugin",
+    "description": "Extra customer data in customer overview",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Melvin Achterhuis"
+        }
+    ],
+    "require": {
+        "shopware/core": "6.4.*",
+        "shopware/storefront": "6.4.*",
+        "shopware/administration": "6.4.*"
+    },
+    "type": "shopware-platform-plugin",
+    "autoload": {
+        "psr-4": {
+            "Melv\\CustomerOverview\\": "src/"
+        }
+    },
+    "extra": {
+        "shopware-plugin-class": "Melv\\CustomerOverview\\MelvCustomerOverview",
+        "label": {
+            "de-DE": "Extra customer data",
+            "en-GB": "Extra customer data"
+        },
+        "description": {
+            "de-DE": "Extra customer data in customer overview",
+            "en-GB": "Extra customer data in customer overview"
+        }
+    }
+}
