@@ -1,14 +1,16 @@
 ## A plugin for [Shopware 6](https://github.com/shopware/platform)
 
-Show extra customer data in the customer overview (Company name and VAT ID)
+Show extra customer data in the customer and order overview (Company name and VAT ID)
 
 ![](https://i.imgur.com/iOhxC5L.png)
+
+![](https://i.imgur.com/IzTGwkh.png)
 
 ## Requirements
 
 | Version 	| Requirements               	|
 |---------	|----------------------------	|
-| 1.0.0    	| Shopware 6.4 >=	            |
+| 1.0.0+    	| Shopware 6.4 >=	            |
 
 ## License
 
