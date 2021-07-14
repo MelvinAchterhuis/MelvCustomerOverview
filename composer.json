@@ -1,7 +1,7 @@
 {
     "name": "melvinachterhuis/customer-overview-shopware6-plugin",
     "description": "Extra customer data in customer overview",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
